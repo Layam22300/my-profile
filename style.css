@@ -1,0 +1,39 @@
+</body>
+</html>
+
+h1 {
+	color: #BB2205;
+	font-size: 30px;
+	font-family: 'Bernadette', cursive;
+	letter-spacing: 1px;
+}
+body{
+	background-color:#BB2205;
+	font-weight: 90;
+	font-family: 'Roboto Slab', serif;
+}
+.fond-blanc{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 40px;
+    text-align: center;
+}
+#image-circle
+{
+	border-radius: 30px;
+}
+.btn
+{
+	background-color: #BB2205;
+	color: white;
+	font-weight: regular;
+	padding: 15px;
+	border-radius: 30px;
+	text-decoration: none;
+}
+.container {
+	width: 700px;
+	margin: 0 auto;
+}
